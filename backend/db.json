@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "name": "Sữa chua nep camghn",
+      "image": "https://th.bing.com/th/id/OIP.pqzQpx8Wg5fEHznAKKY6ugHaJ4?rs=1&pid=ImgDetMain",
+      "price": "400000",
+      "description": "cvbncbv",
+      "id": 3
+    },
+    {
+      "name": "kem dau xanh",
+      "image": "https://th.bing.com/th/id/OIP.YjPw7ak32wPKu8LrmxaUNAHaE8?rs=1&pid=ImgDetMain",
+      "price": "2000",
+      "description": "sdfgh",
+      "id": 4
+    },
+    {
+      "name": "kem dau xanh",
+      "image": "https://www.bartender.edu.vn/wp-content/uploads/2021/01/kem-dau-xanh.jpg",
+      "price": "2000",
+      "description": "ưersdfghj",
+      "id": 5
+    },
+    {
+      "name": "sữa chua hoa quả",
+      "image": "https://bing.com/th?id=OSK.c7acade6646234762eac93df48e8d8c9",
+      "price": "10000",
+      "description": "ádfgnm",
+      "id": 6
+    }
+  ],
+  "users": []
+}
